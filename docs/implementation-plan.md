@@ -2,7 +2,7 @@
 
 ## Phase 1 - Project Setup
 
-Status: Completed
+Status: 
 
 Tujuan:
 
@@ -23,7 +23,7 @@ Deliverables:
 
 ## Phase 2 - Supabase Setup
 
-Status: Completed
+Status: 
 
 Tasks:
 
@@ -40,7 +40,7 @@ Deliverables:
 
 ## Phase 3 - Dashboard UI
 
-Status: Completed
+Status: 
 
 Tasks:
 
@@ -57,7 +57,7 @@ Deliverables:
 
 ## Phase 4 - Create Transaction
 
-Status: Completed
+Status: 
 
 Tasks:
 
@@ -73,7 +73,7 @@ Deliverables:
 
 ## Phase 5 - Read Transaction
 
-Status: Completed
+Status: 
 
 Tasks:
 
@@ -89,7 +89,7 @@ Deliverables:
 
 ## Phase 6 - Update Transaction
 
-Status: Completed
+Status: 
 
 Tasks:
 
@@ -105,7 +105,7 @@ Deliverables:
 
 ## Phase 7 - Delete Transaction
 
-Status: Completed
+Status: 
 
 Tasks:
 
@@ -121,7 +121,7 @@ Deliverables:
 
 ## Phase 8 - Summary Calculation
 
-Status: Completed
+Status: 
 
 Tasks:
 
@@ -137,7 +137,7 @@ Deliverables:
 
 ## Phase 9 - Filtering
 
-Status: Completed
+Status: 
 
 Tasks:
 
